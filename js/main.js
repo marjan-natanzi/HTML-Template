@@ -6,7 +6,7 @@ $(document).ready(function(){
     arrows: false,
     focusOnSelect: true,
     autoplay: true,
-    autoplaySpeed: 2000,
+    autoplaySpeed: 700,
     fade: true,
   });
 
